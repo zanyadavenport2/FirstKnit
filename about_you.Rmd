@@ -1,16 +1,17 @@
 ---
 title: "First Knit"
 author: "Your Name"
-date: "Date, 2021"
-output:
-   html_document:
-    number_sections: yes
-    toc: yes
+output: 
+  html_document:
+    number_sections: true
+    toc: true
+    toc_depth: 5
+date: "`r Sys.Date()`"   
 ---
 
 # A Little Survey
 
-Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. Half the points in this assignment depend on your picture and name being correct!!  Be sure to put your photo in the Files folder and call it My_photo.jpg after first renaming the current one to Koala.jpg. Suggest you email a selfie to yourself which you download, then use the upload option in the Files pane (lower right pane).  Ask a neighbor or a geek friend if you are stuck. One other thing to do is to edit the gitCredentials.txt file to reflect your name and email address - not Dr K's.
+Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
 
 ## Where are you now, and what sort of computer are you using?  
   
@@ -21,7 +22,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 
 
 ## Your computer and your and its capability?  
-On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  You also need to have have internet access. Please go to the web site toast.net and test your upload and download speed. Put your speed results in the answer.  
+On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  You also need to have have internet access. How is your connection to the internet?
 
 ### my answer   
   
@@ -60,8 +61,10 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 
 
-## Why are you taking Math 115?  
-What grade do you need to attain in stats to not upset your future plans, What is your plan?
+## Why are you taking Statistics?  
+Did you take Math 115 or Math 116 ?  Why??
+
+What grade do you need to attain in stats to not upset your future plans, What is your plan?  
  
 
 ### my answer     
