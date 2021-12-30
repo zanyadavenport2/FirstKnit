@@ -13,7 +13,8 @@ date: "`r Sys.Date()`"
 
 Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
 
-## Where are you now, and what sort of computer are you using?  
+## A short history of you.  
+Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
   
@@ -22,14 +23,14 @@ Here are just a few questions so I can get to know you and so you can get practi
 
 
 ## Your computer and your and its capability?  
-On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  You also need to have have internet access. How is your connection to the internet?
+ For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
   
    
 
 ## Others and You?   
-What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want me to call you something else - what would that be? 
+What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
   
@@ -62,8 +63,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 
 ## Why are you taking Statistics?  
-Did you take Math 115 or Math 116 ?  Why??
-
+Did you take Math 115 or Math 116 ?  Did you know Math 115 only satisfies a general education requirement but that Math 116 counts as taking statistics in several transfer institutions??  
 What grade do you need to attain in stats to not upset your future plans, What is your plan?  
  
 
